@@ -15,7 +15,7 @@ Bilgisayar mühendisliği öğrencisi ve özellikle **mobil uygulama geliştirme
 - **İlgi Alanları:** Full-Stack Web Geliştirme, Mobil Uygulama Geliştirme, Oyun Geliştirme, Arayüz (UI) Tasarımı, Veritabanı Araştırmaları
 
 ### 🎓 Eğitim
-- **Kocaeli Üniversitesi** – Bilgisayar Mühendisliği (2017 - Devam)
+- **Kocaeli Üniversitesi** – Bilgisayar Mühendisliği (2017 - 2026)
 
 ---
 *Scroll down for English version* 👇
@@ -38,7 +38,7 @@ I'm a Computer Engineering student and an aspiring software developer with a str
 - **Interests:** Full-Stack Web Development, Mobile App Development, Game Development, UI Design, Database Research
 
 ### 🎓 Education
-- **Kocaeli University** – Computer Engineering (2017 - Present)
+- **Kocaeli University** – Computer Engineering (2017 - 2026)
 
 ---
 
